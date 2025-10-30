@@ -26,7 +26,7 @@ jobs:
         run: pyinstaller build_windows.spec
       
       - name: Upload Windows artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: KurmanjiRecorder-Windows
           path: dist/KurmanjiRecorder/
@@ -50,7 +50,7 @@ jobs:
         run: pyinstaller build_macos.spec
       
       - name: Upload macOS Intel artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: KurmanjiRecorder-macOS-Intel
           path: dist/KurmanjiRecorder.app
@@ -73,8 +73,9 @@ jobs:
       - name: Build macOS ARM64 executable
         run: pyinstaller build_macos.spec
       
+
       - name: Upload macOS ARM artifact
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v4
         with:
           name: KurmanjiRecorder-macOS-M1
           path: dist/KurmanjiRecorder.app
@@ -85,7 +86,7 @@ jobs:
     if: startsWith(github.ref, 'refs/tags/')
     steps:
       - name: Download all artifacts
-        uses: actions/download-artifact@v3
+        uses: actions/download-artifact@v4
       
       - name: Create ZIP files
         run: |
