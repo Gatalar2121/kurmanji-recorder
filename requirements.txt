@@ -1,0 +1,13 @@
+sounddevice>=0.4.6
+soundfile>=0.12.1
+numpy>=1.24.0
+matplotlib>=3.7.0
+customtkinter>=5.2.0
+pillow>=10.0.0
+pyaudio>=0.2.11
+python-docx>=0.8.11
+PyPDF2>=3.0.1
+python-magic-bin>=0.4.14; platform_system=="Windows"
+librosa>=0.10.0
+scipy>=1.10.0
+requests>=2.28.0

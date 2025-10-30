@@ -1,0 +1,290 @@
+000001_aferin.wav	aferin
+000002_amade.wav	amade
+000003_azadî.wav	azadî
+000004_Azadî.wav	Azadî
+000005_bas.wav	bas
+000006_Bav.wav	Bav
+000007_berfirehî.wav	berfirehî
+000008_berê.wav	berê
+000009_be.wav	be
+000010_bibore.wav	bibore
+000011_Bijî.wav	Bijî
+000012_bixêr.wav	bixêr
+000013_bi.wav	bi
+000014_bra.wav	bra
+000015_cawa_yî.wav	cawa_yî
+000016_cawa_yî.wav	cawa_yî
+000017_dawî.wav	dawî
+000018_Dayik.wav	Dayik
+000019_deh.wav	deh
+000020_demjimêr.wav	demjimêr
+000021_deqîqe.wav	deqîqe
+000022_derê.wav	derê
+000023_desthiladariyê.wav	desthiladariyê
+000024_destpêk.wav	destpêk
+000025_dewlemendên.wav	dewlemendên
+000026_dixwazî.wav	dixwazî
+000027_dişopînin.wav	dişopînin
+000028_duh.wav	duh
+000029_du.wav	du
+000030_Dê.wav	Dê
+000031_elektronîk.wav	elektronîk
+000032_Em.wav	Em
+000033_ew_bas_e..wav	ew_bas_e.
+000034_eyaletên.wav	eyaletên
+000035_Ez.wav	Ez
+000036_ez_bas_im..wav	ez_bas_im.
+000037_ez_kî_me.wav	ez_kî_me
+000038_Gellek.wav	Gellek
+000039_gerandin.wav	gerandin
+000040_hafiz.wav	hafiz
+000041_hatî.wav	hatî
+000042_heft.wav	heft
+000043_hembez.wav	hembez
+000044_here.wav	here
+000045_her.wav	her
+000046_her_tim.wav	her_tim
+000047_hewildan.wav	hewildan
+000048_hez_dikim.wav	hez_dikim
+000049_heşt.wav	heşt
+000050_hêja.wav	hêja
+000051_hûn_bas_in..wav	hûn_bas_in.
+000052_im.wav	im
+000053_Jibilî.wav	Jibilî
+000054_ji.wav	ji
+000055_kal.wav	kal
+000056_Kec.wav	Kec
+000057_kengê.wav	kengê
+000058_kesk.wav	kesk
+000059_kom.wav	kom
+000060_komîte.wav	komîte
+000061_Kurdistan.wav	Kurdistan
+000062_Kurd.wav	Kurd
+000063_Kurmancî.wav	Kurmancî
+000064_Kur.wav	Kur
+000065_ku.wav	ku
+000066_Lenîn.wav	Lenîn
+000067_malê.wav	malê
+000068_merhaba.wav	merhaba
+000069_met.wav	met
+000070_min.wav	min
+000071_nav.wav	nav
+000072_navê.wav	navê
+000073_navê_min.wav	navê_min
+000074_Navê_min_Serhildan_e.wav	Navê_min_Serhildan_e
+000075_navê_wî.wav	navê_wî
+000076_neh.wav	neh
+000077_ne.wav	ne
+000078_niha.wav	niha
+000079_nêz.wav	nêz
+000080_parlament.wav	parlament
+000081_paşde.wav	paşde
+000082_paşê.wav	paşê
+000083_pisportî.wav	pisportî
+000084_plansazî.wav	plansazî
+000085_pênc.wav	pênc
+000086_pêşeroj.wav	pêşeroj
+000087_pêşmerge.wav	pêşmerge
+000088_pêşniyar.wav	pêşniyar
+000089_pêşvebirin.wav	pêşvebirin
+000090_pêşveçûn.wav	pêşveçûn
+000091_pêşxistine.wav	pêşxistine
+000092_pêş.wav	pêş
+000093_pêşîn.wav	pêşîn
+000094_pûr.wav	pûr
+000095_rabe.wav	rabe
+000096_razemenî.wav	razemenî
+000097_re.wav	re
+000098_reş.wav	reş
+000099_roj.wav	roj
+000100_Roj_bas.wav	Roj_bas
+000101_rêxistin.wav	rêxistin
+000102_rûne.wav	rûne
+000103_saet.wav	saet
+000104_salî.wav	salî
+000105_serokwezîr.wav	serokwezîr
+000106_serok.wav	serok
+000107_sibê.wav	sibê
+000108_sor.wav	sor
+000109_spas.wav	spas
+000110_spî.wav	spî
+000111_sê.wav	sê
+000112_taloqkirin.wav	taloqkirin
+000113_Te.wav	Te
+000114_tu.wav	tu
+000115_tu_cawa_yî.wav	tu_cawa_yî
+000116_Tu_kî_yî.wav	Tu_kî_yî
+000117_tê.wav	tê
+000118_vexwarin.wav	vexwarin
+000119_Werin.wav	Werin
+000120_xaltî.wav	xaltî
+000121_xatirê.wav	xatirê
+000122_xetereyê.wav	xetereyê
+000123_Xwarinê.wav	Xwarinê
+000124_xwa.wav	xwa
+000125_Xwedê.wav	Xwedê
+000126_xwe.wav	xwe
+000127_xwisk.wav	xwisk
+000128_xêr.wav	xêr
+000129_yek.wav	yek
+000130_yekşem.wav	yekşem
+000131_ye.wav	ye
+000132_yî.wav	yî
+000133_Zarokek_biaqil_e..wav	Zarokek_biaqil_e.
+000134_zer.wav	zer
+000135_çar.wav	çar
+000136_Çavkaniyên.wav	Çavkaniyên
+000137_çawa.wav	çawa
+000138_Çay.wav	Çay
+000139_çend.wav	çend
+000140_çi.wav	çi
+000141_çûn.wav	çûn
+000142_çû.wav	çû
+000143_êvar.wav	êvar
+000144_îro.wav	îro
+000145_şev.wav	şev
+000146_şeş.wav	şeş
+000147_şîn.wav	şîn
+000146_armanc.wav	armanc
+000147_têkiliyên.wav	têkiliyên
+000148_zêdebûn.wav	zêdebûn
+000149_rewşek.wav	rewşek
+000150_pirsgirêkekî.wav	pirsgirêkekî
+000151_îluzyoneke.wav	îluzyoneke
+000152_belgekirina.wav	belgekirina
+000153_dezenformasyon.wav	dezenformasyon
+000154_mirov.wav	mirov
+000155_radigihîne.wav	radigihîne
+000156_xurt.wav	xurt
+000157_Rojnameya.wav	Rojnameya
+000158_sosyolojî.wav	sosyolojî
+000159_gor.wav	gor
+000160_dikin.wav	dikin?
+000161_hişmendîbûnê.wav	hişmendîbûnê
+000162_herikandinekî.wav	herikandinekî
+000163_enformasyonê.wav	enformasyonê
+000164_rêbaz.wav	rêbaz
+000165_bidestgirtin.wav	bidestgirtin:
+000166_lênederketin.wav	lênederketin
+000166_kurtasî.wav	kurtasî
+000167_serxwebûn.wav	serxwebûn
+000168_mercê.wav	mercê
+000169_navneteweyî.wav	navneteweyî
+000170_muazam.wav	muazam
+000171_merc.wav	merc
+000172_arîstokratan.wav	arîstokratan
+000173_lênederketin.wav	lênederketin
+000174_nûçe-komkirina.wav	nûçe-komkirina
+000175_medyayêbûnê.wav	medyayêbûnê:
+000176_tiştên.wav	tiştên
+000177_pîşekî.wav	pîşekî
+000178_DÎROKÎ.wav	DÎROKÎ
+000179_têgîna.wav	têgîna
+000180_propagandayê.wav	propagandayê
+000181_PÎŞEYA_slow.wav	PÎŞEYA
+000182_temas_slow.wav	temas
+000183_temas_normal.wav	temas
+000184_temas_fast.wav	temas
+000185_agahdar_slow.wav	agahdar
+000186_agahdar_normal.wav	agahdar
+000187_agahdar_normal.wav	agahdar
+000188_agahdar_normal.wav	agahdar
+000189_agahdar_fast.wav	agahdar
+000190_agahiyên_normal.wav	agahiyên
+000191_agahiyên_slow.wav	agahiyên
+000192_agahiyên_fast.wav	agahiyên
+000193_pîşeyî_slow.wav	pîşeyî
+000194_pîşeyî_normal.wav	pîşeyî
+000195_pîşeyî_fast.wav	pîşeyî
+000196_reklamê_slow.wav	reklamê
+000197_reklamê_normal.wav	reklamê
+000198_reklamê_fast.wav	reklamê
+000199_bingehîn_slow.wav	bingehîn
+000200_bingehîn_normal.wav	bingehîn
+000201_bingehîn_slow.wav	bingehîn
+000202_bingehîn_fast.wav	bingehîn
+000203_çawa_yî_slow.wav	çawa yî?
+000204_çawa_yî_normal.wav	çawa yî?
+000205_çawa_yî_fast.wav	çawa yî?
+000206_çawa_yî_fast.wav	çawa yî?
+000207_tu_çawa_yî_slow.wav	tu çawa yî?
+000208_tu_çawa_yî_normal.wav	tu çawa yî?
+000209_tu_çawa_yî_fast.wav	tu çawa yî?
+000210_nayên_slow.wav	nayên
+000211_nayên_normal.wav	nayên
+000212_nayên_fast.wav	nayên
+000213_bajarbûn_slow.wav	bajarbûn
+000214_bajarbûn_normal.wav	bajarbûn
+000215_bajarbûn_fast.wav	bajarbûn
+000216_bajarbûn_fast.wav	bajarbûn
+000217_girîngiya_slow.wav	girîngiya
+000218_girîngiya_slow.wav	girîngiya
+000219_girîngiya_normal.wav	girîngiya
+000220_girîngiya_fast.wav	girîngiya
+000221_ez_baş_im_slow.wav	ez baş im.
+000222_ez_baş_im_normal.wav	ez baş im.
+000223_ez_baş_im_fast.wav	ez baş im.
+000224_ew_baş_e_slow.wav	ew baş e.
+000225_ew_baş_e_normal.wav	ew baş e.
+000226_ew_baş_e_fast.wav	ew baş e.
+000227_tevgerên_slow.wav	tevgerên
+000228_tevgerên_normal.wav	tevgerên
+000229_tevgerên_fast.wav	tevgerên
+000230_Keç_normal.wav	Keç
+000231_Keç_slow.wav	Keç
+000232_Keç_fast.wav	Keç
+000233_Ez_navê_xwe_dibêjim_û_ez_ji_Kurdistan_im_normal.wav	Ez navê xwe dibêjim û ez ji Kurdistan im
+000234_Ez_navê_xwe_dibêjim_û_ez_ji_Kurdistan_im_slow.wav	Ez navê xwe dibêjim û ez ji Kurdistan im
+000235_Ez_navê_xwe_dibêjim_û_ez_ji_Kurdistan_im_fast.wav	Ez navê xwe dibêjim û ez ji Kurdistan im
+000236_Kurdistan_welatekî_bedew_e_ku_çiya_û_çem_hene_slow.wav	Kurdistan welatekî bedew e ku çiya û çem hene
+000237_Kurdistan_welatekî_bedew_e_ku_çiya_û_çem_hene_normal.wav	Kurdistan welatekî bedew e ku çiya û çem hene
+000238_Kurdistan_welatekî_bedew_e_ku_çiya_û_çem_hene_fast.wav	Kurdistan welatekî bedew e ku çiya û çem hene
+000239_Zimanê_kurdî_zimanekî_kevn_û_dewlemend_e_slow.wav	Zimanê kurdî zimanekî kevn û dewlemend e
+000240_Zimanê_kurdî_zimanekî_kevn_û_dewlemend_e_normal.wav	Zimanê kurdî zimanekî kevn û dewlemend e
+000241_Zimanê_kurdî_zimanekî_kevn_û_dewlemend_e_fast.wav	Zimanê kurdî zimanekî kevn û dewlemend e
+000242_Her_sal_em_cejna_Newrozê_pîroz_dikin_slow.wav	Her sal em cejna Newrozê pîroz dikin
+000243_Her_sal_em_cejna_Newrozê_pîroz_dikin_normal.wav	Her sal em cejna Newrozê pîroz dikin
+000244_Her_sal_em_cejna_Newrozê_pîroz_dikin_fast.wav	Her sal em cejna Newrozê pîroz dikin
+000245_Ez_hez_dikim_ku_bi_kurdî_binivîsim_û_bixwînim_slow.wav	Ez hez dikim ku bi kurdî binivîsim û bixwînim
+000246_Ez_hez_dikim_ku_bi_kurdî_binivîsim_û_bixwînim_normal.wav	Ez hez dikim ku bi kurdî binivîsim û bixwînim
+000247_Ez_hez_dikim_ku_bi_kurdî_binivîsim_û_bixwînim_fast.wav	Ez hez dikim ku bi kurdî binivîsim û bixwînim
+000248_xwişk_slow.wav	xwişk
+000249_xwişk_normal.wav	xwişk
+000250_xwişk_fast.wav	xwişk
+000251_Xelkê_Kurdistanê_gelek_xwedî_rûmet_û_mêvanparêz_in_slow.wav	Xelkê Kurdistanê gelek xwedî rûmet û mêvanparêz in
+000252_Xelkê_Kurdistanê_gelek_xwedî_rûmet_û_mêvanparêz_in_normal.wav	Xelkê Kurdistanê gelek xwedî rûmet û mêvanparêz in
+000253_Xelkê_Kurdistanê_gelek_xwedî_rûmet_û_mêvanparêz_in_fast.wav	Xelkê Kurdistanê gelek xwedî rûmet û mêvanparêz in
+000254_Em_bi_zimanê_kurdî_dipeyivin_û_kêfxweş_in_slow.wav	Em bi zimanê kurdî dipeyivin û kêfxweş in
+000255_Em_bi_zimanê_kurdî_dipeyivin_û_kêfxweş_in_normal.wav	Em bi zimanê kurdî dipeyivin û kêfxweş in
+000256_Em_bi_zimanê_kurdî_dipeyivin_û_kêfxweş_in_fast.wav	Em bi zimanê kurdî dipeyivin û kêfxweş in
+000257_Gelek_kesan_hewl_didin_ku_vî_zimanî_hîn_bibin_slow.wav	Gelek kesan hewl didin ku vî zimanî hîn bibin
+000258_Gelek_kesan_hewl_didin_ku_vî_zimanî_hîn_bibin_normal.wav	Gelek kesan hewl didin ku vî zimanî hîn bibin
+000259_Gelek_kesan_hewl_didin_ku_vî_zimanî_hîn_bibin_fast.wav	Gelek kesan hewl didin ku vî zimanî hîn bibin
+000260_Em_divê_bi_hevkariyê_re_zimanê_xwe_biparêzin_slow.wav	Em divê bi hevkariyê re zimanê xwe biparêzin
+000261_Em_divê_bi_hevkariyê_re_zimanê_xwe_biparêzin_normal.wav	Em divê bi hevkariyê re zimanê xwe biparêzin
+000262_Em_divê_bi_hevkariyê_re_zimanê_xwe_biparêzin_fast.wav	Em divê bi hevkariyê re zimanê xwe biparêzin
+000263_Her_roj_ez_hewl_didim_ku_bi_kurdî_bipeyivim_slow.wav	Her roj ez hewl didim ku bi kurdî bipeyivim
+000264_Her_roj_ez_hewl_didim_ku_bi_kurdî_bipeyivim_normal.wav	Her roj ez hewl didim ku bi kurdî bipeyivim
+000265_Her_roj_ez_hewl_didim_ku_bi_kurdî_bipeyivim_fast.wav	Her roj ez hewl didim ku bi kurdî bipeyivim
+000266_karibin_slow.wav	karibin
+000267_baş_normal.wav	baş
+000268_baş_slow.wav	baş
+000269_baş_fast.wav	baş
+000270_Kurdistan_xwedî_çiyayên_bilind_û_daristan_e_normal.wav	Kurdistan xwedî çiyayên bilind û daristan e
+000271_Kurdistan_xwedî_çiyayên_bilind_û_daristan_e_fast.wav	Kurdistan xwedî çiyayên bilind û daristan e
+000272_Kurdistan_xwedî_çiyayên_bilind_û_daristan_e_slow.wav	Kurdistan xwedî çiyayên bilind û daristan e
+000273_Zarokên_me_di_dibistanê_de_bi_kurdî_fêr_dibin_slow.wav	Zarokên me di dibistanê de bi kurdî fêr dibin
+000274_Zarokên_me_di_dibistanê_de_bi_kurdî_fêr_dibin_normal.wav	Zarokên me di dibistanê de bi kurdî fêr dibin
+000275_Zarokên_me_di_dibistanê_de_bi_kurdî_fêr_dibin_fast.wav	Zarokên me di dibistanê de bi kurdî fêr dibin
+000276_Em_di_bazarê_de_bi_kurdî_axivîn_fast.wav	Em di bazarê de bi kurdî axivîn
+000277_Em_di_bazarê_de_bi_kurdî_axivîn_slow.wav	Em di bazarê de bi kurdî axivîn
+000278_Em_di_bazarê_de_bi_kurdî_axivîn_normal.wav	Em di bazarê de bi kurdî axivîn
+000279_Stran_û_govend_di_çandê_me_de_cihê_girîng_hene_normal.wav	Stran û govend di çandê me de cihê girîng hene
+000280_Stran_û_govend_di_çandê_me_de_cihê_girîng_hene_slow.wav	Stran û govend di çandê me de cihê girîng hene
+000281_Stran_û_govend_di_çandê_me_de_cihê_girîng_hene_fast.wav	Stran û govend di çandê me de cihê girîng hene
+000282_Em_hez_dikin_ku_gotinên_kevn_biparêzin_fast.wav	Em hez dikin ku gotinên kevn biparêzin
+000283_Em_hez_dikin_ku_gotinên_kevn_biparêzin_normal.wav	Em hez dikin ku gotinên kevn biparêzin
+000284_Em_hez_dikin_ku_gotinên_kevn_biparêzin_slow.wav	Em hez dikin ku gotinên kevn biparêzin
+000285_tevahî_normal.wav	tevahî
+000286_tevahî_slow.wav	tevahî
+000287_tevahî_fast.wav	tevahî

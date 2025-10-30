@@ -1,0 +1,93 @@
+# Kurdish (Kurmanji) Sample Words and Phrases
+# Basic Greetings and Expressions
+
+# Greetings
+merhaba
+roj baş
+êvar baş
+şev baş
+bi xatirê te
+xwa hafiz
+
+# Questions and Responses
+çawa yî?
+tu çawa yî?
+çawa ne?
+ez baş im
+tu çawa yî?
+here tê?
+kengê tê?
+çend e?
+
+# Personal Information
+navê min ... e
+ez ji Kurdistan im
+ez Kurd im
+tu ji ku derê yî?
+tu çend salî yî?
+
+# Family
+bav
+dayik
+dê
+bra
+xwişk
+kal
+xaltî
+met
+pûr
+
+# Numbers
+yek
+du
+sê
+çar
+pênc
+şeş
+heft
+heşt
+neh
+deh
+
+# Colors
+sor
+reş
+spî
+kesk
+şîn
+zer
+
+# Common Phrases
+spas
+bibore
+bixêr hatî
+bi xêr çû
+hêja te
+aferin
+werin
+here
+rabe
+rûne
+
+# Time expressions
+îro
+sibê
+duh
+niha
+paşê
+berê
+demjimêr
+saet
+deqîqe
+
+# Common sentences
+Ez te hez dikim
+Xwedê bi te re be
+Bijî Kurdistan
+Azadî
+Gellek spas
+Te çi dixwazî?
+Em çûn malê
+Werin nav malê
+Çay vexwarin
+Xwarinê amade ye
