@@ -23,7 +23,7 @@ cd kurmanji
 python kurmanji_recorder_modern.py
 ```
 
-#### 2. Kelime ve Cümle Yökleme (ÇOK GELİŞMİŞ!)
+#### 2. Kelime ve Cümle Yükleme (ÇOK GELİŞMİŞ!)
 
 **Manuel Ekleme:**
 - **"➕ Add Words/Sentences"**: Çoklu kelime/cümle ekleme penceresi
